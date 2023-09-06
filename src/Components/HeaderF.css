@@ -1,0 +1,35 @@
+/* Header.css */
+.header {
+    background-color: #18191b; /* Set your desired background color */
+    color: white;
+    padding: 10px 0;
+    height: 60px;
+  }
+  
+  .search-bar {
+    /* height:20px; */
+    position: relative;
+    padding-left:40px;
+    padding-right: 40px;
+    margin-right:40% ;
+  }
+  
+  .search-bar input {
+    border: none;
+    border-radius: 3px;
+    padding: 5px 10px;
+    width: 100%;
+  }
+  
+  .voice-assistant {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .voice-assistant i {
+    font-size: 1.5rem;
+  }
+  
